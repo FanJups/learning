@@ -1,6 +1,10 @@
 # learning
 Just thinking about what I should learn and how to learn it
 
+In the future :
+
+Artificial Intelligence; Machine Learning ; Deep Learning ; More about XML / JSON ; python ; ...
+
 ## 1- SPRING [DONE]
 
 https://github.com/FanJups/learningSpring
