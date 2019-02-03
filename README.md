@@ -5,6 +5,8 @@ In the future :
 
 Artificial Intelligence; Machine Learning ; Deep Learning ; More about XML / JSON ; python ; ...
 
+https://www.tutorialspoint.com/python/
+
 https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
 
 https://www.tutorialspoint.com/machine_learning_with_python/index.htm
