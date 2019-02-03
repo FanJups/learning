@@ -2,17 +2,71 @@
 Just thinking about what I should learn and how to learn it
 
 ## 1- SPRING [DONE]
-## 2- ANGULAR JS
-## 3- JUNIT
-## 4- MAVEN
-## 5- WEB SERVICES
-## 6- SPRING WEB SERVICES ( SOAP )
-## 7- RESTFUL WEB SERVICES
-## 8- GROOVY
-## 9- GRADLE
-## 10- SPRING BOOT CLI
-## 11- JENKINS
-## 12- DOCKER
-## 13- APACHE KAFKA
-## 14- SPRING BOOT
+
+https://github.com/FanJups/learningSpring
+
+https://www.tutorialspoint.com/spring/
+
+## 2- ANGULAR JS [DONE]
+
+https://github.com/FanJups/learningAngularJS
+
+https://www.tutorialspoint.com/angularjs/
+
+## 3- JUNIT [DONE]
+
+https://github.com/FanJups/learningJunit
+
+https://www.tutorialspoint.com/junit/index.htm
+
+
+## 4- MAVEN [DONE]
+
+https://github.com/FanJups/learningMaven
+
+https://www.tutorialspoint.com/maven/index.htm
+
+## 5- WEB SERVICES [DONE]
+
+https://www.tutorialspoint.com/webservices/
+
+## 6- SPRING WEB SERVICES ( SOAP ) [DONE]
+
+https://github.com/FanJups/learningSpringWebServices
+
+https://www.tutorialspoint.com/springws/
+
+## 7- RESTFUL WEB SERVICES [DONE]
+
+https://github.com/FanJups/learningRESTfulWebServices
+
+https://www.tutorialspoint.com/restful/
+
+## 8- GROOVY [DONE]
+
+https://github.com/FanJups/learningGroovy
+
+https://www.tutorialspoint.com/groovy/
+
+## 9- GRADLE [DONE]
+
+https://github.com/FanJups/learningGradle
+
+https://www.tutorialspoint.com/gradle/index.htm
+
+## 10- SPRING BOOT CLI [DONE]
+
+https://github.com/FanJups/learningSpringBootCLI
+
+https://www.tutorialspoint.com/springbootcli/index.htm
+
+## 11- JENKINS [I AM WORKING ON IT]
+
+https://github.com/FanJups/learningJenkins
+
+https://www.tutorialspoint.com/jenkins/
+
+## 12- DOCKER [NOT YET DONE]
+## 13- APACHE KAFKA [NOT YET DONE]
+## 14- SPRING BOOT [NOT YET DONE]
 
