@@ -3,7 +3,7 @@ Just thinking about what I should learn and how to learn it
 
 In the future :
 
-Artificial Intelligence; Machine Learning ; Deep Learning ; More about XML / JSON ; python ; ...
+Artificial Intelligence; Machine Learning ; Deep Learning ; More about XML / JSON ; python ; tensorflow java ...
 
 https://www.tutorialspoint.com/python/
 
