@@ -13,6 +13,12 @@ https://www.tutorialspoint.com/machine_learning_with_python/index.htm
 
 https://www.tutorialspoint.com/python_deep_learning/index.htm
 
+https://www.tutorialspoint.com/tensorflow/index.htm
+
+https://www.tutorialspoint.com/artificial_intelligence/
+
+
+
 ## 1- SPRING [DONE]
 
 https://github.com/FanJups/learningSpring
