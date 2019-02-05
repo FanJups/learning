@@ -84,7 +84,7 @@ https://github.com/FanJups/learningJenkins
 
 https://www.tutorialspoint.com/jenkins/
 
-## 12- DOCKER [NOT YET DONE]
+## 12- DOCKER [I AM WORKING ON IT]
 ## 13- APACHE KAFKA [NOT YET DONE]
 ## 14- SPRING BOOT [NOT YET DONE]
 
