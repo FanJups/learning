@@ -17,6 +17,8 @@ https://www.tutorialspoint.com/tensorflow/index.htm
 
 https://www.tutorialspoint.com/artificial_intelligence/
 
+Also insteresting : https://learn.freecodecamp.org/
+
 
 
 ## 1- SPRING [DONE]
