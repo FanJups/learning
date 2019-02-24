@@ -92,7 +92,7 @@ https://github.com/FanJups/learningDocker
 
 https://www.tutorialspoint.com/docker/
 
-## 13- APACHE KAFKA [I AM WORKING ON IT]
+## 13- APACHE KAFKA [DONE]
 
 https://github.com/FanJups/learningApacheKafka
 
