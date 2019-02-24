@@ -93,5 +93,10 @@ https://github.com/FanJups/learningDocker
 https://www.tutorialspoint.com/docker/
 
 ## 13- APACHE KAFKA [I AM WORKING ON IT]
+
+https://github.com/FanJups/learningApacheKafka
+
+https://www.tutorialspoint.com/apache_kafka/index.htm
+
 ## 14- SPRING BOOT [NOT YET DONE]
 
