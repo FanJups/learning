@@ -112,17 +112,17 @@ https://www.tutorialspoint.com/python_deep_learning/index.htm
 
 https://www.tutorialspoint.com/tensorflow/index.htm
 
-## 19- JAVA FX [...]
+## 20- JAVA FX [...]
 
 https://www.tutorialspoint.com/javafx/index.htm
 
-## 20- ANGULAR [...]
+## 21- ANGULAR [...]
 
 https://github.com/FanJups/learningAngular
 
 https://www.tutorialspoint.com/angular6/index.htm
 
-## 21- TYPESCRIPT [...]
+## 22- TYPESCRIPT [...]
 
 https://www.tutorialspoint.com/typescript/
 
