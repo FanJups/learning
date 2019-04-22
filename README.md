@@ -114,3 +114,13 @@ https://www.tutorialspoint.com/tensorflow/index.htm
 
 https://www.tutorialspoint.com/javafx/index.htm
 
+## 20- ANGULAR [...]
+
+https://github.com/FanJups/learningAngular
+
+https://www.tutorialspoint.com/angular6/index.htm
+
+## 21- TYPESCRIPT [...]
+
+https://www.tutorialspoint.com/typescript/
+
