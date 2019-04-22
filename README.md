@@ -1,27 +1,7 @@
 # learning
 Just thinking about what I should learn and how to learn it
 
-In the future :
-
-Artificial Intelligence; Machine Learning ; Deep Learning ; More about XML / JSON ; python ; tensorflow java ; java fx ; hibernate ...
-
-https://www.tutorialspoint.com/python/
-
-https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
-
-https://www.tutorialspoint.com/machine_learning_with_python/index.htm
-
-https://www.tutorialspoint.com/python_deep_learning/index.htm
-
-https://www.tutorialspoint.com/tensorflow/index.htm
-
-https://www.tutorialspoint.com/artificial_intelligence/
-
-https://www.tutorialspoint.com/hibernate/
-
 Also insteresting : https://learn.freecodecamp.org/
-
-
 
 ## 1- SPRING [DONE]
 
@@ -111,4 +91,26 @@ https://www.tutorialspoint.com/spring_boot/index.htm
 https://github.com/FanJups/learningPython
 
 https://www.tutorialspoint.com/python/
+
+## 16- ARTIFICIAL INTELLIGENCE [...]
+
+https://www.tutorialspoint.com/artificial_intelligence/
+
+https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
+
+## 17- MACHINE LEARNING [...]
+
+https://www.tutorialspoint.com/machine_learning_with_python/index.htm
+
+## 18- DEEP LEARNING [...]
+
+https://www.tutorialspoint.com/python_deep_learning/index.htm
+
+## 19- TENSORFLOW [...]
+
+https://www.tutorialspoint.com/tensorflow/index.htm
+
+## 19- JAVA FX [...]
+
+https://www.tutorialspoint.com/javafx/index.htm
 
