@@ -94,6 +94,8 @@ https://www.tutorialspoint.com/python/
 
 ## 16- ARTIFICIAL INTELLIGENCE [...]
 
+https://www.welcome.ai
+
 https://www.tutorialspoint.com/artificial_intelligence/
 
 https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
