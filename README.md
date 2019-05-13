@@ -106,6 +106,14 @@ https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
 
 https://www.tutorialspoint.com/machine_learning_with_python/index.htm
 
+Machine Learning Zero to Hero (Google I/O'19)
+
+https://youtu.be/VwVg9jCtqaU
+
+Getting Started with TensorFlow 2.0 (Google I/O'19)
+
+https://youtu.be/lEljKc9ZtU8
+
 ## 18- DEEP LEARNING [...]
 
 https://www.tutorialspoint.com/python_deep_learning/index.htm
