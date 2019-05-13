@@ -1,7 +1,7 @@
 # learning
 Just thinking about what I should learn and how to learn it
 
-C C++ LINUX SHELL MONGO DB
+C C++ LINUX SHELL MONGO DB CASSANDRA
 
 Also insteresting : https://learn.freecodecamp.org/
 
