@@ -104,6 +104,10 @@ https://www.tutorialspoint.com/artificial_intelligence/
 
 https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
 
+face recognition opencv python
+
+https://www.google.com/search?ei=2q3gXJrdJ9XMgwf4pIjoDQ&q=face+recognition+opencv+python&oq=face+recognition+opencv&gs_l=psy-ab.1.0.0i71l8.0.0..227140...0.0..0.0.0.......0......gws-wiz.bvVaJynWoXo
+
 https://www.datacamp.com/community/tutorials/face-detection-python-opencv
 
 ## 17- MACHINE LEARNING [...]
