@@ -104,6 +104,8 @@ https://www.tutorialspoint.com/artificial_intelligence/
 
 https://www.tutorialspoint.com/artificial_intelligence_with_python/index.htm
 
+https://www.datacamp.com/community/tutorials/face-detection-python-opencv
+
 ## 17- MACHINE LEARNING [...]
 
 https://www.tutorialspoint.com/machine_learning_with_python/index.htm
