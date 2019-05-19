@@ -110,6 +110,10 @@ https://www.google.com/search?ei=2q3gXJrdJ9XMgwf4pIjoDQ&q=face+recognition+openc
 
 https://www.datacamp.com/community/tutorials/face-detection-python-opencv
 
+Python Face Recognition Tutorial
+
+https://youtu.be/QSTnwsZj2yc
+
 ## 17- MACHINE LEARNING [...]
 
 https://www.tutorialspoint.com/machine_learning_with_python/index.htm
