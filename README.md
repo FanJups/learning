@@ -94,6 +94,8 @@ https://github.com/FanJups/learningPython
 
 https://www.tutorialspoint.com/python/
 
+https://www.fun-mooc.fr/courses/course-v1:MinesTelecom+04006+session10/info
+
 ## 16- ARTIFICIAL INTELLIGENCE [...]
 
 https://www.welcome.ai
@@ -121,6 +123,8 @@ https://www.tutorialspoint.com/python_deep_learning/index.htm
 ## 19- TENSORFLOW [...]
 
 https://www.tutorialspoint.com/tensorflow/index.htm
+
+https://www.tensorflow.org/tutorials
 
 ## 20- JAVA FX [...]
 
