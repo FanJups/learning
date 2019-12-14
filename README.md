@@ -154,7 +154,7 @@ https://github.com/FanJups/learningAngular
 
 https://www.tutorialspoint.com/angular7/index.htm
 
-## 22- TYPESCRIPT [...]
+## 22- TYPESCRIPT [DONE]
 
 https://www.tutorialspoint.com/typescript/
 
