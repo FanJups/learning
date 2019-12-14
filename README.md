@@ -148,7 +148,7 @@ https://www.tensorflow.org/tutorials
 
 https://www.tutorialspoint.com/javafx/index.htm
 
-## 21- ANGULAR [...]
+## 21- ANGULAR [DONE]
 
 https://github.com/FanJups/learningAngular
 
