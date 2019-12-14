@@ -152,7 +152,7 @@ https://www.tutorialspoint.com/javafx/index.htm
 
 https://github.com/FanJups/learningAngular
 
-https://www.tutorialspoint.com/angular6/index.htm
+https://www.tutorialspoint.com/angular7/index.htm
 
 ## 22- TYPESCRIPT [...]
 
