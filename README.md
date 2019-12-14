@@ -96,7 +96,7 @@ https://github.com/FanJups/learningSpringBoot
 
 https://www.tutorialspoint.com/spring_boot/index.htm
 
-## 15- PYTHON [...]
+## 15- PYTHON [DONE]
 
 https://github.com/FanJups/learningPython
 
